@@ -1,3 +1,5 @@
+this is hw.txt file that you want to see on your screen as the output
+
 hello world
 attempt
 123
